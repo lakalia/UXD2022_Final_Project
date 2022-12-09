@@ -21,7 +21,8 @@ https://user-images.githubusercontent.com/70278902/206801068-feb873af-a509-4064-
 Animated journey map(s)
 
 ### User Testing (on ourselves)
-Group Assignment 4 deck
+Group Assignment 4 -- Issues:
+[Prime Video UX Redesign (Slide Deck).pdf](https://github.com/lakalia/UXD2022_Final_Project/files/10198503/Prime.Video.UX.Redesign.Slide.Deck.pdf)
 
 ### Brainstorming
 Lists/Other work documents
