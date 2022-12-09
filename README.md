@@ -8,7 +8,7 @@ Nicole Conill, Florkenthia Jolibois and Lovleena Kalia
 (possibly replace this title with a slide?)
 
 ## Introduction/Business Case
-Pitch video:
+Our Pitch video for Group Assignment 2:
 
 
 https://user-images.githubusercontent.com/70278902/206801068-feb873af-a509-4064-9afc-ea24fdaaa4d9.mp4
