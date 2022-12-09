@@ -5,13 +5,31 @@ Create a UX Case-Study that walks through the entire end-to-end process and solu
 # UX Case Study: Amazon Prime Video
 Nicole Conill, Florkenthia Jolibois and Lovleena Kalia
 
-## Introduction
+## Introduction/Business Case
 
-### Subsubsection
+Pitch
 
-# Heading 3
+## Research
 
-## Subsection
+### Journeys
 
-### Subsubsection
+Animated journey map(s)
+
+### User Testing (on ourselves)
+
+Group Assignment 4 deck
+
+### Brainstorming
+
+Lists/Other work documents
+
+### Insights
+
+What we want to do and why (Vision)
+
+## Solution
+
+Wireframes/storyboards
+
+Mockup
 
