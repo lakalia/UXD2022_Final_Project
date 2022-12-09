@@ -1,8 +1,8 @@
-# Heading 1
+# UXD2022 Final Group Project
 
-## Subsection
+### Create a UX Case-Study that walks through the entire end-to-end process and solutions for re-designing the UX of an app, service, or experience
 
-### Subsubsection
+## UX Case Study: Amazon Prime Video
 
 # Heading 2
 
