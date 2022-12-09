@@ -8,7 +8,7 @@ Nicole Conill, Florkenthia Jolibois and Lovleena Kalia
 (possibly replace this title with a slide?)
 
 ## Introduction/Business Case
-Pitch
+Pitch video?
 
 
 # Research
