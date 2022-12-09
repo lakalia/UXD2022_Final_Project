@@ -24,7 +24,9 @@ Animated journey map(s)
 Group Assignment 4 deck
 
 ### Brainstorming
-Lists/Other work documents
+Work documents:
+![working_documents_1](https://user-images.githubusercontent.com/70278902/206812630-3e6433a8-3398-46b6-a795-f2db6ad18ce8.png)
+
 
 ### Insights
 What we want to do and why (Vision)
