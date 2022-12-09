@@ -8,8 +8,7 @@ Nicole Conill, Florkenthia Jolibois and Lovleena Kalia
 (possibly replace this title with a slide?)
 
 ## Introduction/Business Case
-Pitch video:
-https://github.com/lakalia/UXD2022_Final_Project/blob/87a6569b838909cee5e8add2a8651377ec7efb0a/Group2_PitchingAClient.mp4
+Pitch video?
 
 
 # Research
