@@ -6,9 +6,11 @@ the UX of an app, service, or experience
 # UX Case Study: Amazon Prime Video
 Nicole Conill, Florkenthia Jolibois and Lovleena Kalia 
 
-## Introduction/Business Case
-Our Pitch video for Group Assignment 2:
+## Introduction
+Loremipsum 
 
+## Business Case
+Our Pitch video for Group Assignment 2:
 
 https://user-images.githubusercontent.com/70278902/206801068-feb873af-a509-4064-9afc-ea24fdaaa4d9.mp4
 
