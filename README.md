@@ -7,9 +7,7 @@ the UX of an app, service, or experience
 Nicole Conill, Florkenthia Jolibois and Lovleena Kalia 
 
 ## Introduction/Business Case
-Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Facilisi          
-nullam vehicula ipsum a arcu cursus. Ultrices sagittis orci a scelerisque purus semper eget duis at. Eleifend donec pretium vulputate           
-sapien nec sagittis aliquam. 
+(Should we add something here?)
 
 Our Pitch video for Group Assignment 2:
 
@@ -37,10 +35,7 @@ Work documents:
 ![working_documents_3](https://user-images.githubusercontent.com/70278902/206822987-4c9bb0a6-0df6-4f89-98d3-c7147ca5f9d8.png)
 
 ### Insights
-What we want to do and why (Vision)
-
-sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Facilisi nullam vehicula ipsum a arcu cursus. Ultrices sagittis          
-orci a scelerisque purus semper eget duis at. Eleifend donec pretium vulputate sapien nec sagittis aliquam. 
+What we want to do and why (Vision)...
 
 # Solution
 
