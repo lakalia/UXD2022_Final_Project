@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/70278902/206801068-feb873af-a509-4064-
 Animated journey map(s)
 
 ### User Testing (on ourselves)
-Group Assignment 4 (slide deck) -- identify potential issues you hope to address
+Group Assignment 4 (slide deck) -- identify potential issues you hope to address:
 
 ![UX_Redesign_slide_deck](https://user-images.githubusercontent.com/70278902/206825327-11323643-8fc2-42e1-b8ba-0daecbfb64ee.png)
 
