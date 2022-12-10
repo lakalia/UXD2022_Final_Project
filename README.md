@@ -24,6 +24,9 @@ Group Assignment 4 deck
 
 ### Brainstorming
 Work documents:
+
+![working_documents_2](https://user-images.githubusercontent.com/70278902/206817889-f51a27a9-f03f-4ec0-8836-d694510e8ca8.png)
+
 ![working_documents_1](https://user-images.githubusercontent.com/70278902/206812630-3e6433a8-3398-46b6-a795-f2db6ad18ce8.png)
 
 
