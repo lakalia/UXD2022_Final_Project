@@ -195,7 +195,7 @@ section {
 	justify-content: center;
 	padding-top: .5rem;
 	padding-bottom: .5rem;
-	font-size: 1.3rem;
+	font-size: 1.5rem;
 	font-weight: 800;
 }
 
@@ -214,6 +214,14 @@ section {
 
 .card-strength {
 	background-color: #67D7FC;
+}
+
+.card-critique {
+	background-color: #FC6767;
+}
+
+.card-improvement {
+	background-color: #86FC67;
 }
 
 .card-description {
