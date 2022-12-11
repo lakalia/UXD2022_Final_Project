@@ -35,7 +35,15 @@ h3 {
 }
 
 h4 {
-	font-size: 1.8rem;
+	font-size: 2rem;
+	font-weight: 400;
+	font-family: 'Passion One', cursive;
+	padding-top: 1rem;
+	margin: 0rem;
+}
+
+h5 {
+	font-size: 1.5rem;
 	font-weight: 400;
 	font-family: 'Passion One', cursive;
 	padding-top: 1rem;
@@ -43,6 +51,7 @@ h4 {
 }
 
 p {
+	font-size: 1rem;
 	padding-top: 1rem;
 	margin: 0rem;
 }
@@ -132,13 +141,14 @@ section {
 
 .section-header {
 	width: 100%;
-	color: #242F3E;
+	color: #00A8E1;
 	font-size: 4rem;
 	font-weight: 800;
 	text-transform: capitalize;
 	font-family: 'Passion One', cursive;
 	display: flex;
 	flex-direction: row;
+	padding-bottom: 1rem;
 }
 
 .prime-logo {
