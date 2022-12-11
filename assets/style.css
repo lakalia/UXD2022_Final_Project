@@ -34,6 +34,19 @@ h3 {
 	font-style: italic;
 }
 
+h4 {
+	font-size: 1.8rem;
+	font-weight: 400;
+	font-family: 'Passion One', cursive;
+	padding-top: 1rem;
+	margin: 0rem;
+}
+
+p {
+	padding-top: 1rem;
+	margin: 0rem;
+}
+
 .container {
 	display: flex;
 	flex-direction: row;
@@ -109,8 +122,8 @@ h3 {
 }
 
 section {
-	padding-left: 10%;
-	padding-right: 10%;
+	padding-left: 15%;
+	padding-right: 15%;
 	padding-top: 3rem;
 	padding-bottom: 3rem;
 	display: flex;
@@ -120,7 +133,7 @@ section {
 .section-header {
 	width: 100%;
 	color: #242F3E;
-	font-size: 3rem;
+	font-size: 4rem;
 	font-weight: 800;
 	text-transform: capitalize;
 	font-family: 'Passion One', cursive;
