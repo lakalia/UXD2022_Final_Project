@@ -10,7 +10,8 @@ body {
 }
 
 header {
-	padding: 1.5rem;
+	padding: 0.5rem;
+	padding-bottom: 1rem;
 	background-color: #242F3E;
 }
 
@@ -19,19 +20,28 @@ header a {
 	color: white;
 	text-decoration: none;
 	padding: 0.8rem;
+	font-family: 'Assistant', sans-serif;
+	font-weight: 700;
 }
 
 header a.active, a:hover{
 	color: #00A8E1;
 }
 
+h1 {
+	
+}
+
 h2 {
 	text-align: center;
+	font-weight: 700;
 }
 
 h3 {
 	text-align: center;
 	font-style: italic;
+	font-weight: 500;
+	font-size: 1rem;
 }
 
 h4 {
@@ -96,37 +106,14 @@ p {
 	flex-wrap: wrap;
 	justify-content: center;
 	text-align: center;
-}
-
-@media only screen and (max-width: 800px) {
-	.container {
-    	flex-direction: column;
-  	}
-	.column-left-30 {
-		width: 100%;
-		flex-direction: column;
-		align-content: center;
-	}
-	.row-logo {
-		width: 100%;
-		flex-direction: column;
-		align-content: center;
-	}
-	.row-names {
-		width: 100%;
-		flex-direction: column;
-		align-content: center;
-	}
-	.column-right-60 {
-		width: 100%;
-		flex-direction: column;
-		align-content: center;
-	}
+	font-family: 'Assistant', sans-serif;
+	font-weight: 700;
+	
 }
 
 .wpi-logo {
 	width: 100%;
- 	max-width: 15rem;
+ 	max-width: 12rem;
   	height: auto;
 	padding: .5rem;
 }
@@ -149,12 +136,19 @@ section {
 	font-family: 'Passion One', cursive;
 	display: flex;
 	flex-direction: row;
+	justify-content: center;
+}
+
+.header-point {
+	text-align: center;
+	background-color: #242F3E;
+	border-radius: 1rem;
 }
 
 .prime-logo {
 	margin: auto;
 	width: 100%;
-	max-width: 20rem;
+	max-width: 30rem;
 	height: auto;
 	display: flex;
 	justify-content: center;
@@ -162,6 +156,7 @@ section {
 	border-radius: 2rem;
 }
 
+/*
 .section-header:before,
 .section-header:after {
 	content: "";
@@ -169,7 +164,7 @@ section {
 	border-bottom: 3px solid #242F3E;
 	margin: auto;
 }
-
+*/
 .grey-style{
 	color: #242F3E;
 }
@@ -230,4 +225,33 @@ section {
 	text-align: center;
 	font-size: 1rem;
 	padding: .5rem;
+}
+
+@media only screen and (max-width: 800px) {
+	.container {
+    	flex-direction: column;
+  	}
+	.column-left-30 {
+		width: 100%;
+		flex-direction: column;
+		align-content: center;
+	}
+	.row-logo {
+		width: 100%;
+		flex-direction: column;
+		align-content: center;
+	}
+	.row-names {
+		width: 100%;
+		flex-direction: column;
+		align-content: center;
+	}
+	.column-right-60 {
+		width: 100%;
+		flex-direction: column;
+		align-content: center;
+	}
+	.section-header {
+		text-align: center;
+	}
 }
