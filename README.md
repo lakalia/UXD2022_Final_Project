@@ -39,5 +39,9 @@ What we want to do and why... (Our Vision)
 
 Wireframes/storyboards
 
-Mockup
+![Wireframe_draft_p1](https://user-images.githubusercontent.com/70278902/206943841-c562788f-6658-43f4-bf92-ad9a1ad9f2fb.png)
+
+![Wireframe_draft_p2](https://user-images.githubusercontent.com/70278902/206943872-1dceecd6-745d-447d-81d4-6ee1bf09c8ea.png)
+
+Mockups
 
