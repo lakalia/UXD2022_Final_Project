@@ -231,13 +231,29 @@ section {
 }
 
 .phone-card {
-	width: 30%;
+	width: 25%;
 	margin-bottom: 2%;
 	position: relative;
-	border-radius: .8rem;
 	display: flex;
 	flex-direction: column;
 }
+
+.laptop-card {
+	width: 35%;
+	margin-bottom: 2%;
+	position: relative;
+	display: flex;
+	flex-direction: column;
+}
+
+.tv-card {
+	width: 35%;
+	margin-bottom: 2%;
+	position: relative;
+	display: flex;
+	flex-direction: column;
+}
+
 
 
 /* The device with borders */
@@ -288,6 +304,36 @@ section {
   	height: auto;
 }
 
+
+/* The laptop with borders */
+.laptop {
+  position: absolute;
+  width: 100%;
+ 	max-width: 15rem;
+  	height: 10rem;
+  border-radius: 6px;
+  border-style: solid;
+  border-color: black;
+  border-width: 24px 24px 80px;
+  background-color: black;
+
+}
+
+/* The tv with borders */
+.tv {
+  position: absolute;
+  width: 100%;
+ 	max-width: 18rem;
+  	height: 10rem;
+  border-radius: 6px;
+  border-style: solid;
+  border-color: black;
+  border-width: 24px 24px 80px;
+  background-color: black;
+
+}
+
+
 @media only screen and (max-width: 800px) {
 	.container {
     	flex-direction: column;
@@ -319,6 +365,9 @@ section {
 		justify-content: center;
 	}
 	.phone-card {
+		width: 100%;
+	}
+	.laptop-card {
 		width: 100%;
 	}
 }
