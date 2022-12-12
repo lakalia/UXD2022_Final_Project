@@ -129,7 +129,7 @@ section {
 
 .section-header {
 	width: 100%;
-	color: #00A8E1;
+	color: #242F3E;
 	font-size: 4rem;
 	font-weight: 800;
 	text-transform: capitalize;
@@ -137,6 +137,7 @@ section {
 	display: flex;
 	flex-direction: row;
 	justify-content: center;
+	text-align: center;
 }
 
 .header-point {
@@ -250,8 +251,5 @@ section {
 		width: 100%;
 		flex-direction: column;
 		align-content: center;
-	}
-	.section-header {
-		text-align: center;
 	}
 }
