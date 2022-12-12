@@ -16,9 +16,7 @@ https://user-images.githubusercontent.com/70278902/206801068-feb873af-a509-4064-
 # Research
 
 ### Journeys
-Animated journey map(s):
-
-https://github.com/lakalia/UXD2022_Final_Project/blob/a33cc149e0a96dba3e0a2abda46ea1f34dd2ca3a/videos/MIS585_UXD2022_FinalProject_journey_maps_no_audio.mp4
+Animated journey map(s)
 
 ### User Testing (on ourselves)
 Group Assignment 4 (slide deck) -- identify potential issues you hope to address:
