@@ -43,5 +43,5 @@ Wireframes/storyboards
 
 ![Wireframe_draft_p2](https://user-images.githubusercontent.com/70278902/206943872-1dceecd6-745d-447d-81d4-6ee1bf09c8ea.png)
 
-Mockup
+Mockups
 
