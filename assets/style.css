@@ -275,7 +275,7 @@ section {
   height: 35px;
   position: absolute;
   left: 50%;
-  bottom: -65px;
+  bottom: -60px;
   transform: translate(-50%, -50%);
   background: #333;
   border-radius: 50%;
@@ -318,7 +318,6 @@ section {
 	.card-description {
 		justify-content: center;
 	}
-	
 	.phone-card {
 		width: 100%;
 	}
