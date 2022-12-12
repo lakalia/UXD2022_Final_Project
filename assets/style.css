@@ -154,6 +154,7 @@ section {
 	display: flex;
 	justify-content: center;
 	background-color: white;
+	border: .5rem solid #242F3E;
 	border-radius: 2rem;
 }
 
@@ -251,5 +252,11 @@ section {
 		width: 100%;
 		flex-direction: column;
 		align-content: center;
+	}
+	.card {
+		width: 100%;
+	}
+	.card-description{
+		justify-content: center;
 	}
 }
