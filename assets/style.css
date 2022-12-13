@@ -187,6 +187,39 @@ section {
 	flex-direction: column;
 }
 
+.card-issue {
+	width: 45%;
+	margin-bottom: 2%;
+	position: relative;
+	border: .2rem solid #242F3E;
+	border-radius: .8rem;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background-color: white;
+	color: #00A8E1;
+}
+
+.circle {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	border-radius: 50%;
+	width: 2rem;
+	height: 2rem;
+	padding: .5rem;
+	margin-top: 1rem;
+	border: 3px solid #00A8E1;
+	color: #00A8E1;
+	text-align: center;
+	font-size: 2rem;
+	font-family: 'Passion One', cursive;
+}
+
+.issue-number {
+	
+}
+
 .card-title {
 	display: flex;
 	flex-direction: row;
@@ -373,9 +406,15 @@ section {
 	.laptop-card {
 		width: 100%;
 	}
+	.card-issue {
+		width: 100%;
+	}
 }
 
 @media only screen and (max-width: 450px) {
+	.container {
+		justify-content: center;
+	}
 	.prime-logo {
 		max-width: 15rem;
 	}
@@ -385,5 +424,8 @@ section {
 	}
 	.section-header {
 		font-size: 2.5rem;
+	}
+	.card-title{
+		justify-content: center;
 	}
 }
