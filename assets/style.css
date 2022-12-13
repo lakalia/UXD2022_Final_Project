@@ -174,9 +174,17 @@ section {
 	flex-direction: column;
 }
 
-.card-issue {
+.issues {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
 	width: 100%;
- 	max-width: 40rem;
+	justify-content: center; 
+}
+
+.card-issue {
+	width: 45%;
+ 	max-width: 35rem;
   	height: auto;
 	margin-bottom: 2%;
 	position: relative;
@@ -189,6 +197,7 @@ section {
 	background-color: white;
 	color: #00A8E1;
 	padding: 0.5rem;
+	margin: 0.5rem;
 }
 
 .card-title {
@@ -337,6 +346,11 @@ section {
 
 }
 
+@media only screen and (max-width: 1050px) {
+	.card-issue {
+		width: 100%;
+	}
+}
 
 @media only screen and (max-width: 800px) {
 	.prime-logo {
