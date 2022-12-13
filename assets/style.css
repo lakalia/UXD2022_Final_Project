@@ -379,6 +379,10 @@ section {
 	.prime-logo {
 		max-width: 15rem;
 	}
+	.section {
+		padding-left: 5%;
+		padding-right: 5%;
+	}
 	.section-header {
 		font-size: 2.5rem;
 	}
