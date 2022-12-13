@@ -120,8 +120,8 @@ p {
 }
 
 section {
-	padding-left: 15%;
-	padding-right: 15%;
+	padding-left: 10%;
+	padding-right: 10%;
 	padding-top: 3rem;
 	padding-bottom: 3rem;
 	display: flex;
@@ -273,28 +273,28 @@ section {
 .smartphone:before {
   content: '';
   display: block;
-  width: 60px;
-  height: 5px;
+  width: 3.75rem;
+  height: 0.3rem;
   position: absolute;
-  top: -30px;
+  top: -1.875rem;
   left: 50%;
   transform: translate(-50%, -50%);
-  background: #333;
+  background: #F0F0F0;
   border-radius: 10px;
 }
 
 /* The circle on the bottom of the device */
 .smartphone:after {
-  content: '';
-  display: block;
-  width: 35px;
-  height: 35px;
-  position: absolute;
-  left: 50%;
-  bottom: -60px;
-  transform: translate(-50%, -50%);
-  background: #333;
-  border-radius: 50%;
+  	content: '';
+  	display: block;
+  	width: 2rem;
+ 	height: 2rem;
+ 	position: absolute;
+  	left: 50%;
+  	bottom: -3.5rem;
+  	transform: translate(-50%, -50%);
+  	background: #F0F0F0;
+  	border-radius: 50%;
 }
 
 /* The screen (or content) of the device */
