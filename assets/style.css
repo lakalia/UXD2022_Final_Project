@@ -243,6 +243,18 @@ section {
 	padding: .5rem;
 }
 
+.journey-map-videos {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	width: 100%;
+	justify-content: center;
+}
+
+.journey-map-videos video {
+	margin: 0.5rem;
+}
+
 .phone-card {
 	width: 25%;
 	margin-bottom: 2%;
@@ -349,6 +361,13 @@ section {
 @media only screen and (max-width: 1050px) {
 	.card-issue {
 		width: 100%;
+	}
+}
+
+
+@media only screen and (max-width: 1000px) {
+	.journey-map-videos video {
+		width: 90%;
 	}
 }
 
