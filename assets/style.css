@@ -244,6 +244,51 @@ section {
 	font-weight: 600;
 }
 
+.sources-button {
+	margin: auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	background-color:#242F3E;
+	border: .3rem solid #242F3E;
+	border-radius: 0.3rem;
+	color: white;
+	padding: 0rem 1rem;
+	font-size: .7rem;
+}
+
+.card-point {
+	width: 80%;
+	margin: auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	border: .3rem solid #242F3E;
+	border-radius: .5rem;
+	background-color: white;
+	padding: 1rem;
+	margin-bottom: 1rem;
+	font-size: .875rem;
+}
+
+.sources-box {
+	width: 50%;
+	margin: auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	border: .3rem solid #242F3E;
+	border-radius: .5rem;
+	background-color: white;
+	padding: 1rem;
+	margin-bottom: 1rem;
+	font-size: .7rem;
+}
+
+sup {
+	padding: .5rem;
+}
+
 .journey-map-videos {
 	display: flex;
 	flex-direction: row;
