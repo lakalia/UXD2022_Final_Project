@@ -18,7 +18,13 @@ https://user-images.githubusercontent.com/70278902/206801068-feb873af-a509-4064-
 ### Journeys
 Animated journey map(s):
 
+No audio:
 https://github.com/lakalia/UXD2022_Final_Project/blob/Leena/videos/MIS585_UXD2022_FinalProject_journey_maps_no_audio2_med.mp4?raw=true
+
+Three new with audio:
+https://github.com/lakalia/UXD2022_Final_Project/blob/Leena/videos/MIS585_UXD2022_FinalProject_journey_map_mobile.mp4?raw=true
+https://github.com/lakalia/UXD2022_Final_Project/blob/Leena/videos/MIS585_UXD2022_FinalProject_journey_map_laptop.mp4?raw=true
+https://github.com/lakalia/UXD2022_Final_Project/blob/Leena/videos/MIS585_UXD2022_FinalProject_journey_map_TV.mp4?raw=true
 
 ### User Testing (on ourselves)
 Group Assignment 4 (slide deck) -- identify potential issues you hope to address:
