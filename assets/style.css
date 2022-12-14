@@ -224,15 +224,15 @@ section {
 }
 
 .card-strength {
-	background-color: #00A8E1;
+	background-color: #58D4FF;
 }
 
 .card-critique {
-	background-color: #FC4444;
+	background-color: #FC7373;
 }
 
 .card-improvement {
-	background-color: #49FB44;
+	background-color: #8FFC8C;
 }
 
 .card-description {
@@ -241,6 +241,7 @@ section {
 	text-align: center;
 	font-size: 1rem;
 	padding: .5rem;
+	font-weight: 600;
 }
 
 .journey-map-videos {
