@@ -291,6 +291,7 @@ section {
 	}
 }
 
+
 @media only screen and (max-width: 800px) {
 	.prime-logo {
 		max-width: 20rem;
@@ -325,7 +326,8 @@ section {
 		justify-content: center;
 	}
 	.phone-card {
-		width: 100%;
+		width: 50%;
+		margin: auto;
 	}
 	.laptop-card {
 		width: 100%;
@@ -337,6 +339,7 @@ section {
 		width: 100%;
 	}
 }
+
 
 @media only screen and (max-width: 450px) {
 	.container {
