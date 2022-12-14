@@ -261,6 +261,7 @@ section {
 	position: relative;
 	display: flex;
 	flex-direction: column;
+	align-items: center;
 }
 
 .laptop-card {
@@ -269,6 +270,7 @@ section {
 	position: relative;
 	display: flex;
 	flex-direction: column;
+	align-items: center;
 }
 
 .tv-card {
@@ -277,9 +279,8 @@ section {
 	position: relative;
 	display: flex;
 	flex-direction: column;
+	align-items: center;
 }
-
-
 
 /* The device with borders */
 .smartphone {
@@ -332,16 +333,55 @@ section {
 
 /* The laptop with borders */
 .laptop {
-  position: absolute;
-  width: 100%;
- 	max-width: 15rem;
+  	display: flex;
+	flex-direction: row;
+	justify-content: center;
+  	width: 100%;
+ 	max-width: 17rem;
   	height: 10rem;
-  border-radius: 6px;
-  border-style: solid;
-  border-color: black;
-  border-width: 24px 24px 80px;
-  background-color: black;
+  	border-radius: .3rem;
+  	border-style: solid;
+  	border-color: blue;
+  	border-width: .5rem .5rem 3rem;
+  	background-color: black;
+}
 
+.laptop:after {
+  	content: '';
+  	display: block;
+  	position: absolute;
+  	width: 100%;
+ 	max-width: 20rem;
+  	height: 3rem;
+  	margin: 10rem 0 0 0rem;
+  	background: black;
+  	border-radius: .5rem;
+}
+
+/* The top of the keyboard */
+.laptop:before {
+  content: '';
+  display: block;
+  position: absolute;
+  width: 250px;
+  height: 30px;
+  bottom: -110px;
+  left: 50%;
+  -webkit-transform: translate(-50%);
+  transform: translate(-50%);
+  background: red;
+  border-bottom-left-radius: .5rem;
+  border-bottom-right-radius: .5rem;
+  z-index: 1;
+}
+
+/* The screen (or content) of the device */
+.laptop .content {
+  width: 1366px;
+  height: 800px;
+	background-color: green;
+  overflow: hidden;
+  border: none;
 }
 
 /* The tv with borders */
@@ -418,6 +458,7 @@ section {
 @media only screen and (max-width: 450px) {
 	.container {
 		justify-content: center;
+		flex-direction: column;
 	}
 	.prime-logo {
 		max-width: 15rem;
