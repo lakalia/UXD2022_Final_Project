@@ -203,19 +203,29 @@
 		
 		<p><center>Having identified the three main devices, it was necessary to individually analyze them. By creating journey maps, we were able to evaluate the current user experience on each device.</center></p><br>
 		
-		<div class="journey-map-videos">
-			<!-- Mobile -->
-			<video width="48%" height="48%" controls poster="images/Video Covers/JMMobileCover.svg">
-				<source src="https://github.com/lakalia/UXD2022_Final_Project/blob/Leena/videos/MIS585_UXD2022_FinalProject_journey_map_mobile.mp4?raw=true" type="video/mp4">
-				Your browser does not support the video tag.
-			</video>
-			<!-- Laptop -->
-			<video width="48%" height="48%" controls poster="images/Video Covers/JMDesktopCover.svg">
+		<!-- Mobile -->
+		<video width="100%" height="100%" controls poster="images/Video Covers/JMMobileCover.svg">
+			<source src="https://github.com/lakalia/UXD2022_Final_Project/blob/Leena/videos/MIS585_UXD2022_FinalProject_journey_map_mobile.mp4?raw=true" type="video/mp4">
+			Your browser does not support the video tag.
+		</video><br>
+		
+			
+		<button class="display-button" onClick="displayDesktopVideo()">Desktop Journey Map</button>
+			
+		<!-- Desktop -->
+		<div id="desktop-video" style="display: none">
+			<video width="100%" height="100%" controls poster="images/Video Covers/JMDesktopCover.svg">
 				<source src="https://github.com/lakalia/UXD2022_Final_Project/blob/Leena/videos/MIS585_UXD2022_FinalProject_journey_map_laptop.mp4?raw=true" type="video/mp4">
 				Your browser does not support the video tag.
 			</video>
-			<!-- TV -->
-			<video width="48%" height="48%" controls poster="images/Video Covers/JMTelevisionCover.svg">
+		</div><br>
+		
+		<button class="display-button" onClick="displayTVVideo()">Television Journey Map</button>
+		
+		
+		<!-- TV -->
+		<div id="tv-video" style="display: none">
+			<video width="100%" height="100%" controls poster="images/Video Covers/JMTelevisionCover.svg">
 				<source src="https://github.com/lakalia/UXD2022_Final_Project/blob/Leena/videos/MIS585_UXD2022_FinalProject_journey_map_TV.mp4?raw=true" type="video/mp4">
 				Your browser does not support the video tag.
 			</video>
@@ -414,13 +424,13 @@
 		<h4>Final Design:</h4><br>
 		
 		<div class="container" style="justify-content: space-between">
-			<div class="final-card"><img src="images/Finals/Final1.svg" alt="final"></div>
-			<div class="final-card"><img src="images/Finals/Final2.svg" alt="final"></div>
-			<div class="final-card"><img src="images/Finals/Final3.svg" alt="final"></div>
-			<div class="final-card"><img src="images/Finals/Final4.svg" alt="final"></div>
-			<div class="final-card"><img src="images/Finals/Final5.svg" alt="final"></div>
-			<div class="final-card"><img src="images/Finals/Final6.svg" alt="final"></div>
-			<div class="final-card"><img src="images/Finals/Final7.svg" alt="final"></div>
+			<div class="final-card"><img src="images/Finals/Phone/Final1.svg" alt="final"></div>
+			<div class="final-card"><img src="images/Finals/Phone/Final2.svg" alt="final"></div>
+			<div class="final-card"><img src="images/Finals/Phone/Final3.svg" alt="final"></div>
+			<div class="final-card"><img src="images/Finals/Phone/Final4.svg" alt="final"></div>
+			<div class="final-card"><img src="images/Finals/Phone/Final5.svg" alt="final"></div>
+			<div class="final-card"><img src="images/Finals/Phone/Final6.svg" alt="final"></div>
+			<div class="final-card"><img src="images/Finals/Phone/Final7.svg" alt="final"></div>
 		</div>
 		
 	</section>

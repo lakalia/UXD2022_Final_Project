@@ -1,5 +1,14 @@
-function displayMobileWireframes() {
-	var x = document.getElementById("mobile-wireframes");
+function displayDesktopVideo() {
+	var x = document.getElementById("desktop-video");
+	if (x.style.display === "none") {
+		x.style.display = "flex";
+	} else {
+		x.style.display = "none";
+	}
+}
+
+function displayTVVideo() {
+	var x = document.getElementById("tv-video");
 	if (x.style.display === "none") {
 		x.style.display = "flex";
 	} else {
