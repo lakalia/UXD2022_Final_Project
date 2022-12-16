@@ -304,6 +304,18 @@ section {
 	text-align: center;
 }
 
+.collage {
+	margin: auto;
+	width: 100%;
+	max-width: 45rem;
+	height: auto;
+	display: flex;
+	justify-content: center;
+	background-color: white;
+	border: .5rem solid #242F3E;
+	border-radius: 2rem;
+}
+
 .point {
 	font-weight: 500;
 	color: #00A8E1;
