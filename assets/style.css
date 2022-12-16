@@ -400,6 +400,25 @@ sup {
 	text-align: center;
 }
 
+.animation {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	margin: auto;
+	width: 100%;
+	max-width: 20rem;
+	height: auto;
+	margin-bottom: 0.5rem;
+}
+
+.menu-button {
+	background: #242F3E;
+	border: 0;
+	color: white;
+	font-size: 2rem;
+	padding: 0.5rem;
+}
+
 footer {
 	font-weight: 500;
 	padding: 1rem;
@@ -424,6 +443,13 @@ footer {
 @media only screen and (max-width: 800px) {
 	.prime-logo {
 		max-width: 20rem;
+	}
+	.menu-list {
+		width: 100%;
+		flex-direction: column;
+		align-content: center;
+		align-items: center;
+		margin: auto;
 	}
 	
 	.brainstorm-point {
