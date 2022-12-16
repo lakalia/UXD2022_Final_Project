@@ -271,6 +271,44 @@ section {
 	font-size: .875rem;
 }
 
+.brainstorm-point {
+	width: 40%;
+	margin: auto;
+	display: flex;
+	flex-direction: column;
+	border: .3rem solid #242F3E;
+	border-radius: .5rem;
+	background-color: white;
+	padding: 0.3rem;
+	padding-top: 0;
+	margin-bottom: 1rem;
+	font-size: .875rem;
+}
+
+.brainstorm-number {
+	color: #00A8E1;
+	padding-top: 0rem;
+	font-size: 2rem;
+	font-weight: 800;
+	text-align: center;
+}
+
+.brainstorm-title {
+	color: #00A8E1;
+	font-size: 1.5rem;
+	font-weight: 700;
+	text-align: center;
+}
+
+.brainstorm-solution{
+	text-align: center;
+}
+
+.point {
+	font-weight: 500;
+	color: #00A8E1;
+}
+
 .sources-box {
 	width: 50%;
 	margin: auto;
@@ -382,6 +420,10 @@ footer {
 @media only screen and (max-width: 800px) {
 	.prime-logo {
 		max-width: 20rem;
+	}
+	
+	.brainstorm-point {
+		width: 100%;
 	}
 	.container {
     	flex-direction: column;
