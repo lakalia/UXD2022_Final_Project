@@ -480,6 +480,9 @@ footer {
 		margin: auto;
 		margin-bottom: 1rem;
 	}
+	.final-card {
+		width: 100%;
+	}
 }
 
 @media only screen and (max-width: 450px) {
