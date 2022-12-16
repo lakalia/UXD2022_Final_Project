@@ -271,39 +271,6 @@ section {
 	font-size: .875rem;
 }
 
-.brainstorm-point {
-	width: 40%;
-	margin: auto;
-	display: flex;
-	flex-direction: column;
-	border: .3rem solid #242F3E;
-	border-radius: .5rem;
-	background-color: white;
-	padding: 0.3rem;
-	padding-top: 0;
-	margin-bottom: 1rem;
-	font-size: .875rem;
-}
-
-.brainstorm-number {
-	color: #00A8E1;
-	padding-top: 0rem;
-	font-size: 2rem;
-	font-weight: 800;
-	text-align: center;
-}
-
-.brainstorm-title {
-	color: #00A8E1;
-	font-size: 1.5rem;
-	font-weight: 700;
-	text-align: center;
-}
-
-.brainstorm-solution{
-	text-align: center;
-}
-
 .collage {
 	margin: auto;
 	width: 100%;
@@ -314,6 +281,20 @@ section {
 	background-color: white;
 	border: .5rem solid #242F3E;
 	border-radius: 2rem;
+}
+
+.display-button {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	margin: auto;
+	padding: 0.5rem;
+	border: 1rem solid #242F3E;
+	border-radius: .5rem;
+	background-color: #242F3E;
+	color: white;
+	font-size: 1rem;
+	width: 30%;
 }
 
 .point {
