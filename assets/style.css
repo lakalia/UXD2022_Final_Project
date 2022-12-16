@@ -295,6 +295,7 @@ section {
 	color: white;
 	font-size: 1rem;
 	width: 30%;
+	cursor: pointer;
 }
 
 .point {

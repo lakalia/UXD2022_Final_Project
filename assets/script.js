@@ -1,3 +1,12 @@
+function displayIssues() {
+	var x = document.getElementById("issues");
+	if (x.style.display === "none") {
+		x.style.display = "flex";
+	} else {
+		x.style.display = "none";
+	}
+}
+
 function displayMobileWireframes() {
 	var x = document.getElementById("mobile-wireframes");
 	if (x.style.display === "none") {
