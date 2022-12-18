@@ -53,6 +53,10 @@ Wireframes/storyboards
 
 Mockups
 
-Final Presentation Video:
+Final Presentation Video & Flyer:
 
 https://github.com/lakalia/UXD2022_Final_Project/blob/Leena/videos/Group2_FinalPresentation2.mov?raw=true
+
+[Group2_Flyer2.pdf](https://github.com/lakalia/UXD2022_Final_Project/files/10253498/Group2_Flyer2.pdf)
+
+
