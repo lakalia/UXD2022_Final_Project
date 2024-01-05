@@ -60,4 +60,5 @@ https://github.com/lakalia/UXD2022_Final_Project/blob/Leena/videos/Group2_FinalP
 
 [Group2_Flyer2.pdf](https://github.com/lakalia/UXD2022_Final_Project/files/10253498/Group2_Flyer2.pdf)
 
-
+Website:
+https://lakalia.github.io/UXD2022_Final_Project/
